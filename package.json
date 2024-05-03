@@ -1,5 +1,5 @@
 {
-  "name": "com.Jacob-Daniels.Visave-Package",
+  "name": "com.jd.visave",
   "version": "0.1.0",
   "displayName": "Visave Manager",
   "description": "A code free save sanager for the Unity Engine",
@@ -11,6 +11,6 @@
   "keywords": [
     "Save",
     "Serializer",
-    "SaveManager"
+    "Save Manager"
   ]
 }
