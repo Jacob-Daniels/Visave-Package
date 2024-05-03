@@ -1,0 +1,16 @@
+{
+  "name": "com.Jacob-Daniels.Visave-Package",
+  "version": "0.1.0",
+  "displayName": "Visave Manager",
+  "description": "A code free save sanager for the Unity Engine",
+  "unity": "2022.3",
+  "unityRelease": "1f1",
+  "author": {
+    "name": "Jacob Daniels"
+  },
+  "keywords": [
+    "Save",
+    "Serializer",
+    "SaveManager"
+  ]
+}
